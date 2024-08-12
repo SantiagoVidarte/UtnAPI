@@ -3,6 +3,8 @@ import {router as  moviesRouter} from './routes/movies.js';
 import {router as  usersRouter} from './routes/users.js';
 import 'dotenv/config'
 import "./config/db.js"
+import dotenv from 'dotenv';
+dotenv.config();
 const app = express();
 app.use(express.urlencoded({extended: true}))
 app.use(express.json())
