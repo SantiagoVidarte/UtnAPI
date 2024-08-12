@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Iron Man",
+    "release_year": 2008,
+    "director": "Jon Favreau",
+    "rating": "PG-13",
+    "image_url": "https://example.com/images/iron-man.jpg"
+  },
+  {
+    "id": 2,
+    "title": "The Incredible Hulk",
+    "release_year": 2008,
+    "director": "Louis Leterrier",
+    "rating": "PG-13",
+    "image_url": "https://example.com/images/incredible-hulk.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Thor",
+    "release_year": 2011,
+    "director": "Kenneth Branagh",
+    "rating": "PG-13",
+    "image_url": "https://example.com/images/thor.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Captain America: The First Avenger",
+    "release_year": 2011,
+    "director": "Joe Johnston",
+    "rating": "PG-13",
+    "image_url": "https://example.com/images/captain-america-first-avenger.jpg"
+  },
+  {
+    "id": 5,
+    "title": "The Avengers",
+    "release_year": 2012,
+    "director": "Joss Whedon",
+    "rating": "PG-13",
+    "image_url": "https://example.com/images/avengers.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Iron Man 3",
+    "release_year": 2013,
+    "director": "Shane Black",
+    "rating": "PG-13",
+    "image_url": "https://example.com/images/iron-man-3.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Guardians of the Galaxy",
+    "release_year": 2014,
+    "director": "James Gunn",
+    "rating": "PG-13",
+    "image_url": "https://example.com/images/guardians-of-the-galaxy.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Avengers: Age of Ultron",
+    "release_year": 2015,
+    "director": "Joss Whedon",
+    "rating": "PG-13",
+    "image_url": "https://example.com/images/age-of-ultron.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Doctor Strange",
+    "release_year": 2016,
+    "director": "Scott Derrickson",
+    "rating": "PG-13",
+    "image_url": "https://example.com/images/doctor-strange.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Black Panther",
+    "release_year": 2018,
+    "director": "Ryan Coogler",
+    "rating": "PG-13",
+    "image_url": "https://example.com/images/black-panther.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Avengers: Infinity War",
+    "release_year": 2018,
+    "director": "Anthony and Joe Russo",
+    "rating": "PG-13",
+    "image_url": "https://example.com/images/infinity-war.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Ant-Man and The Wasp",
+    "release_year": 2018,
+    "director": "Peyton Reed",
+    "rating": "PG-13",
+    "image_url": "https://example.com/images/ant-man-wasp.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Captain Marvel",
+    "release_year": 2019,
+    "director": "Anna Boden, Ryan Fleck",
+    "rating": "PG-13",
+    "image_url": "https://example.com/images/captain-marvel.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Avengers: Endgame",
+    "release_year": 2019,
+    "director": "Anthony and Joe Russo",
+    "rating": "PG-13",
+    "image_url": "https://example.com/images/endgame.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Spider-Man: No Way Home",
+    "release_year": 2021,
+    "director": "Jon Watts",
+    "rating": "PG-13",
+    "image_url": "https://example.com/images/no-way-home.jpg"
+  }
+]
